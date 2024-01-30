@@ -3,7 +3,7 @@
 A web-app for checking the current weather and 5-day forecast for a city.
 
 ## Deploed site
- 
+  https://udani521.github.io/2Weather-Dashboard-Server-APIs/
 
 ## vsuals
 ![Alt text](assets/image/weaterdashboard1.png)
